@@ -1,5 +1,6 @@
 {
   "name": "language-ballerina",
+  "author": "WSO2 <ballerinalang@wso2.com>",
   "main": "./lib/language-ballerina",
   "version": "0.8.0",
   "description": "Ballerina language support in Atom",
